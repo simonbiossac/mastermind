@@ -1,0 +1,313 @@
+{
+  "version": "v0",
+  "lines": {
+    "line01": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "blue"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "white"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "orange"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "green"
+        }
+      },
+      "indicators" : {
+        "white" : "2",
+        "red" : "0"
+      }
+    },
+        "line02": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "gray"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "red"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "white"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "blue"
+        }
+      },
+      "indicators" : {
+        "white" : "2",
+        "red" : "0"
+      }
+    },
+        "line03": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "orange"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "green"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "red"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "gray"
+        }
+      },
+      "indicators" : {
+        "white" : "1",
+        "red" : "1"
+      }
+    },
+        "line04": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "yellow"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "blue"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "red"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "white"
+        }
+      },
+      "indicators" : {
+        "white" : "2",
+        "red" : "0"
+      }
+    },
+        "line05": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "red"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "pink"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "green"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "gray"
+        }
+      },
+      "indicators" : {
+        "white" : "2",
+        "red" : "0"
+      }
+    },
+        "line06": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "green"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "yellow"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "blue"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "red"
+        }
+      },
+      "indicators" : {
+        "white" : "1",
+        "red" : "1"
+      }
+    },
+        "line07": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "pink"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "yellow"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "gray"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "red"
+        }
+      },
+      "indicators" : {
+        "white" : "2",
+        "red" : "0"
+      }
+    },
+        "line08": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "orange"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "gray"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "pink"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "red"
+        }
+      },
+      "indicators" : {
+        "white" : "0",
+        "red" : "2"
+      }
+    },    "line09": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "yellow"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "gray"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "pink"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "red"
+        }
+      },
+      "indicators" : {
+        "white" : "1",
+        "red" : "1"
+      }
+    },    "line10": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "orange"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "green"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "pink"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "yellow"
+        }
+      },
+      "indicators" : {
+        "white" : "0",
+        "red" : "2"
+      }
+    },    "line11": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "white"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "green"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "blue"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "yellow"
+        }
+      },
+      "indicators" : {
+        "white" : "0",
+        "red" : "2"
+      }
+    },    "line12": {
+      "type": "array",
+      "id": "0",
+      "items": {
+        "tee1": {
+          "position" : "0",
+          "color": "?"
+        },
+        "tee2": {
+          "position" : "1",
+          "color": "?"
+        },
+        "tee3": {
+          "position" : "2",
+          "color": "?"
+        },
+        "tee4": {
+          "position" : "3",
+          "color": "?"
+        }
+      },
+      "indicators" : {
+        "white" : "?",
+        "red" : "?"
+      }
+    }
+  }
+}
